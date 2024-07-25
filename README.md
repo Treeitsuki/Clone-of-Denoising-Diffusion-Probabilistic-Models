@@ -8,32 +8,21 @@
 </div>
 
 > [!NOTE]
-> This is the Final Task of Visual Media
+> This is the Final Task of Visual Media.
 
-![teaser](./images/teaser.png)
-
-This project is a system that allows VTuber to recognize their own screen and automatically play the game live.
 
 # 🖥️ Demo
-## Playing Screen
-![demo](./images/demo.png)
 
-## Demo using gradio
-![gradio](./images/gradio.png)
+#  🛠️ Acknowledgement
+- [Jonathan Ho, et.al, "Denoising Diffusion Probabilistic Models", NeurIPS2020](https://arxiv.org/abs/2006.11239)
+- [Original GitHub](https://github.com/hojonathanho/diffusion)
 
-#  🛠️ Technology
-- Python(FastAPI, Pillow, OpenAI)
-- [VOICEVOX ENGINE](https://github.com/VOICEVOX/voicevox_engine)
-- [VMagicMirror](https://github.com/malaybaku/VMagicMirror)
 
 # 🧾 Running code
 1. Clone my repository
     ```
-    git clone https://github.com/Treeitsuki/AutoStreaming-VTuber.git
+    git clone https://github.com/Treeitsuki/Clone-of-Denoising-Diffusion-Probabilistic-Models.git
     ```
-1. Set up [VMagicMirror](https://malaybaku.github.io/VMagicMirror/)
-
-    https://malaybaku.github.io/VMagicMirror/download/
 
 1. Run ShellScript
     ```
