@@ -24,18 +24,17 @@ python generate.py --model_path ./models/DDPM_conditional_400/ema_ckpt.pt --outp
 The following images were generated based on CelebA training dataset.
 
 <p>
-    <img src="./image/test1/class_9_sample_4.png"/>
-    <img src="./image/test1/class_9_sample_8.png"/>
-    <img src="./image/test2/class_0_sample_2.png"/>
-    <img src="./image/test2/class_0_sample_1.png"/>
-    <img src="./image/test2/class_9_sample_3.png"/>
+    <img src="./image/test1/class_9_sample_4.png" width="224"/>
+    <img src="./image/test2/class_0_sample_2.png" width="224"/>
+    <img src="./image/test2/class_0_sample_1.png" width="224"/>
+    <img src="./image/test2/class_9_sample_3.png" width="224"/>
 </p>
 <p>
-    <img src="./image/test1/class_0_sample_0.png"/>
-    <img src="./image/test1/class_0_sample_1.png"/>
-    <img src="./image/test1/class_0_sample_6.png"/>
-    <img src="./image/test1/class_9_sample_1.png"/>
-    <img src="./image/test1/class_9_sample_6.png"/>
+    <img src="./image/test1/class_0_sample_0.png" width="224"/>
+    <img src="./image/test1/class_0_sample_1.png" width="224"/>
+    <img src="./image/test1/class_0_sample_6.png" width="224"/>
+    <img src="./image/test1/class_9_sample_1.png" width="224"/>
+    <img src="./image/test1/class_9_sample_6.png" width="224"/>
 </p>
 
 #  🛠️ Acknowledgement
