@@ -34,7 +34,6 @@ The following images were generated based on CelebA training dataset.
     <img src="./image/test1/class_0_sample_1.png" width="224"/>
     <img src="./image/test1/class_0_sample_6.png" width="224"/>
     <img src="./image/test1/class_9_sample_1.png" width="224"/>
-    <img src="./image/test1/class_9_sample_6.png" width="224"/>
 </p>
 
 #  🛠️ Acknowledgement
